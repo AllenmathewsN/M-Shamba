@@ -4,42 +4,42 @@
       "id": 1,
       "item_name": "Rice",
       "item_price": "830",
-      "image_url": "./images/rice.png",
+      "image_url": "./images/rice.jpeg",
       "description": "Edible starchy cereal grain and the grass plant (family Poaceae) by which it is produced. Roughly one-half of the world population, including virtually all of East and Southeast Asia, is wholly dependent upon rice as a staple food; 95 percent of the world's rice crop is eaten by humans."
     },
     {
       "id": 2,
       "item_name": "Beans",
       "item_price": "270",
-      "image_url": "./images/rice.png",
+      "image_url": "./images/bean.jpeg",
       "description": "A bean is the seed of one of several genera of the flowering plant family Fabaceae, which are used as vegetables for human or animal food.[1] They can be cooked in many different ways,[2] including boiling, frying, and baking, and are used in many traditional dishes throughout the world."
     },
     {
       "id": 3,
       "item_name": "Peas",
       "item_price": "330",
-      "image_url": "./images/peas.png",
+      "image_url": "./images/peas.jpeg",
       "description": " A pea is a most commonly green, occasionally golden yellow, or infrequently purple pod-shaped vegetable, widely grown as a cool-season vegetable crop. The seeds may be planted as soon as the soil temperature reaches 10 °C (50 °F), with the plants growing best at temperatures of 13 to 18 °C (55 to 64 °F)."
     },
     {
       "id": 4,
       "item_name": "Carrots",
       "item_price": "175",
-      "image_url": "./images/carrot.png",
+      "image_url": "./images/carrots.jpeg",
       "description": "Herbaceous, generally biennial plant of the Apiaceae family that produces an edible taproot. Among common varieties root shapes range from globular to long, with lower ends blunt to pointed"
     },
     {
       "id": 5,
       "item_name": "Maize",
       "item_price": "100",
-      "image_url": "./images/maize.png",
+      "image_url": "./images/maize.jpeg",
       "description": "Maize, Zea mays, is an annual grass in the family Poaceae and is a staple food crop grown all over the world. The maize plant possesses a simple stem of nodes and internodes. A pair of large leaves extend off of each internode and the leaves total 8–21 per plant."
     },
     {
       "id": 6,
       "item_name": "Pineapple",
       "item_price": "100",
-      "image_url": "./images/pineapple.png",
+      "image_url": "./images/pineapple.jpeg",
       "description": "Pineapples have yellow or white pulp, fleshy, aromatic, juicy and sweet. In the fruit there is a fibrous axis that extends from the crown to the pedicle. Mature pineapples have a very singular fragrance, a beautiful colour and pleasant bittersweet taste."
     }
   ]
