@@ -1,7 +1,8 @@
 const myForm = document.querySelector(".myForm");
 console.log(myForm);
 
-myForm.addEventListener("submit", (event)=>{
+
+myForm.addEventListener("submit", (event) => {
     event.preventDefault();
 
     const userInput = event.target.children[1].value
@@ -19,7 +20,21 @@ myForm.addEventListener("submit", (event)=>{
         title.innerHTML = data.item_name;
         itemDescription.innerHTML = data.description;
         itemImage.src = data.image_url;
-        itemPrice.innerHTML ="Price: " + data.item_price + " Ksh.";
+        itemPrice.innerHTML = "Price: " + data.item_price + " Ksh.";
 
     })
+})
+
+const itemRice = document.querySelector("#rice");
+
+
+itemRice.addEventListener("click", (event) => {
+    alert("Rice from mwea!");
+
+})
+
+const itemBeans = document.querySelector("#bean");
+
+itemBeans.addEventListener("mouseover", (event) => {
+event.target.children[0].style.color = 'red'  
 })
